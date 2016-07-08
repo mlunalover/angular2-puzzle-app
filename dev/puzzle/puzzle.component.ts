@@ -1,7 +1,7 @@
 import {Component, OnInit} from '@angular/core';
 
 @Component({
-    selector: 'my-puzzle',
+    selector: 'my-puzzle'
     template: `
         <section class="setup">
             <h2>Game Setup</h2>
