@@ -1,4 +1,4 @@
-# Angular 2 Puzzle App
+# Angular 2 Custom Directives Playground
 
 ## Features
 dev/ folder holds TypeScript (Angular 2) code => compiled into app/ folder, bundled into bundle.js (incl. dependencies).
